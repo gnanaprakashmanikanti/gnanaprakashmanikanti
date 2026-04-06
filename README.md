@@ -1,6 +1,10 @@
 # Hi there 👋 I'm Gnana Manikanti
 
-## 📊 GitHub Statistics
+## 📊 GitHub Metrics
+
+![Metrics](github-metrics.svg)
+
+## 📈 Profile Stats
 
 <p align="center">
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
