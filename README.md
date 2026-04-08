@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Gnana Manikanti
+# Hi there 👋 I'm Gnana Prakash Manikanti
 
 ## 📊 GitHub Metrics
 
@@ -22,10 +22,10 @@
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gnanamanikanti&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gnanaprakashmanikanti&theme=dark)
 
 ## 🏆 Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=gnanamanikanti&theme=darkhub)
+![Trophy](https://github-profile-trophy.vercel.app/?username=gnanaprakashmanikanti&theme=darkhub)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gnanamanikanti&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=gnanaprakashmanikanti&color=brightgreen)
