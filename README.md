@@ -1,4 +1,4 @@
-# Hi, I'm Gnana Prakash Manikanti 👋
+# Hi, I'm Gnanaprakash Manikanti 👋
 
 Software Engineer with 3+ years of experience in scalable distributed systems, microservices, and cloud-native backend platforms. MS in IT from Illinois Institute of Technology, Chicago.
 
