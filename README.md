@@ -27,7 +27,7 @@ Software Engineer with 3+ years of experience in scalable distributed systems, m
 
 ## 🚀 Featured Projects
 
-**[EcomHub - Production Microservices Platform](https://github.com/gnanaprakashmanikanti)** — 8 Spring Boot microservices with gRPC, Kafka event-driven messaging, Resilience4J, and an AI Shopping Assistant using LangChain RAG + pgvector.
+**[CubeMart - Production Microservices Platform](https://github.com/CubeMart))** — microservices with gRPC, Kafka event-driven messaging, Resilience4J, and an AI Shopping Assistant using LangChain RAG + pgvector.
 
 **[Agentic Document Intelligence Platform](https://github.com/gnanaprakashmanikanti)** — Agentic RAG platform with LangGraph, query routing, multi-step retrieval from Qdrant, and real-time SSE streaming on Google Cloud Run.
 
