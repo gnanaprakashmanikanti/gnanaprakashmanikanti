@@ -66,6 +66,6 @@ Software Engineer with 3+ years of experience in scalable distributed systems, m
 
 ## 🎓 Education
 
-**MS in Information Technology** · Illinois Institute of Technology · 2023–2025
+**MS in Computer Science** · Illinois Institute of Technology · 2023–2025
 
 **BS in Electronics & Communication** · SRM University · 2017–2021
