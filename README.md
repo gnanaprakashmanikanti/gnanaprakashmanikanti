@@ -56,7 +56,7 @@ Software Engineer with 3+ years of experience in scalable distributed systems, m
 
 ## 💼 Experience
 
-**Full Stack Developer Intern** · Saayam For All · Sep 2025 – Present
+**Full Stack Developer** · Saayam For All · Sep 2025 – Present
 
 **Software Engineer** · Infosys · Mar 2022 – Sep 2023
 
@@ -68,4 +68,4 @@ Software Engineer with 3+ years of experience in scalable distributed systems, m
 
 **MS in Computer Science** · Illinois Institute of Technology · 2023–2025
 
-**BS in Electronics & Communication** · SRM University · 2017–2021
+**BS in Computer Engineering** · SRM University · 2017–2021
